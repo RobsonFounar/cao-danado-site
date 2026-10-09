@@ -8,3 +8,5 @@ h2 { margin-top: 28px; }
 a { color: var(--accent); }
 .small { color: var(--muted); font-size: 0.9rem; }
 hr { border: 0; border-top: 1px solid #3a2f25; margin: 40px 0; }
+.yt { border: 1px solid #ff0033; border-radius: 8px; padding: 10px 12px; }
+.yt strong { color: #ff4d6a; }
